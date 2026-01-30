@@ -20,7 +20,7 @@ To perform network vulnerability scanning using Nmap on a Linux system and under
 8. Saved scan results
 
 ## Commands Used
-```bash
+
 nmap -sn 192.168.1.0/24
 nmap 192.168.1.10
 nmap -sV 192.168.1.10
@@ -43,3 +43,8 @@ Role of vulnerability scanning in cybersecurity
 ## Conclusion
 
 This task improved my network reconnaissance skills and provided real-world exposure to vulnerability scanning techniques.
+
+
+
+
+
